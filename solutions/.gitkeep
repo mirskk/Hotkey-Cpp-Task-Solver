@@ -1,0 +1,2 @@
+mkdir -p solutions logs
+touch solutions/.gitkeep logs/.gitkeep
